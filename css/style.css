@@ -1,0 +1,186 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    margin: 0px;
+}
+
+img {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.manubar {
+    width: 100%;
+    height: 80px;
+    border-bottom: 1px solid rgba(31, 31, 31, 0.301);
+    margin-bottom: 5%;
+}
+
+.menudiv {
+    width: 80%;
+    margin: auto;
+}
+
+.menudiv ul {
+    list-style: none;
+}
+
+.manubar ul li {
+    float: right;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+.manubar ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+
+
+/* ................................. */
+
+.firstsection {
+    width: 80%;
+    margin: auto;
+    height: 900px;
+}
+
+.firstsecdiv {
+    width: 50%;
+    float: left;
+}
+
+.firstsecdiv1 h1 {
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.nametext span {
+    color: #ff5050;
+}
+
+.firstsecdiv1 p {
+    font-weight: 600;
+    color: rgba(26, 25, 25, 0.514);
+    margin-bottom: 50px;
+}
+
+.clickbutton {
+    text-decoration: none;
+    color: black;
+    background-color: #ffd050;
+    padding: 8px 20px;
+    border-radius: 4px;
+}
+
+.firstsecdiv1 img {
+    margin-top: 50px;
+    width: 70%;
+}
+
+.firstsecdiv2 img {
+    margin-top: 50px;
+    width: 70%;
+}
+
+.firstsecdiv2 h2 {
+    padding-left: 60px;
+    margin-top: 50px;
+    color: rgba(18, 6, 75, 0.753);
+    text-transform: uppercase;
+    font-size: 32px;
+}
+
+.firstsecdiv2 p {
+    padding-left: 60px;
+    color: rgb(36, 36, 36);
+    margin-bottom: 50px;
+    ;
+}
+
+.firstsecdiv2 a {
+    margin-left: 60px;
+}
+
+
+/* ............................  */
+
+.latestprostart {
+    background-color: rgb(125 142 142 / 8%);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 500px;
+    ;
+}
+
+.lwork {
+    color: #ff5050;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 32px;
+}
+
+.latestsectionmainsection {
+    width: 80%;
+    margin: auto;
+}
+
+.latestwork {
+    padding: 10px;
+    width: 29%;
+    background-color: rgb(250, 250, 250);
+    float: left;
+    margin-left: 2%;
+    border-radius: 8px;
+    box-shadow: 1px 10px 30px rgb(150 150 150);
+}
+
+.latestwork p {
+    color: rgb(78, 78, 78);
+}
+
+
+/* ............  */
+
+.workuniq {
+    padding: 100px 0px;
+    width: 80%;
+    margin: auto;
+}
+
+.workuniqstart {
+    width: 70%;
+    height: 150px;
+    background-image: url(../image/ft.png);
+    background-position-y: center;
+    margin: auto;
+    border-radius: 8px;
+}
+
+.workuniqstart h1 {
+    padding-top: 40px;
+    padding-left: 40px;
+    float: left;
+    display: inline-block;
+    color: white;
+    text-transform: uppercase;
+}
+
+.workuniqstart a {
+    float: right;
+    margin-top: 60px;
+    margin-right: 40px;
+}
+
+.stayconnected {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    color: rgb(121, 118, 121);
+}
+
+.stayconnected a {
+    text-decoration: none;
+    color: rgb(54, 52, 52);
+}
